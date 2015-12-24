@@ -4,7 +4,7 @@ description: >
 author: Viral Jogani
 email: viraljogani@gmail.com
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://virjog.github.io" # the base hostname & protocol for your site
+url: "http://blog.viraljogani.com" # the base hostname & protocol for your site
 twitter_username: virjog
 github_username:  virjog
 
