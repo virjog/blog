@@ -9,3 +9,5 @@ Shoshin, or beginner's mind, is a Zen Buddhism strategy to keep an open mind whe
 I was recently exposed to Shoshin again (after initially learning about it years ago from James Clear and Tim Ferriss) from reading Five Minutes on Mondays by Alan Lurie, and I wanted to apply the strategy to blogging. Like many people, I pick up blogging at the beginning of a new year, but fail to continue after writing a few posts. I'm aware of the many benefits blogging provides, however, I have been unable to develop the discipline to continue getting my thoughts down in writing. I hope to change this in 2016 as I approach blogging with the beginner's mind.
 
 By picking up blogging again, I will start by eliminating any preconceptions I have (committing a post every day or week, limiting topics to blog about, having a minimum length for a post, etc.). 
+
+![Beginner's Mind](http://i.imgur.com/0YiRil3.png)
