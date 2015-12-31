@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goals"
-date:   2015-12-24 13:50:56 -0500
+date:   2016-1-1 13:50:56 -0500
 categories: personal
 ---
 The year is coming to an end. 
